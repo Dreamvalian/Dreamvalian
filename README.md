@@ -15,12 +15,6 @@ I'm currently a college student.<br>Majoring in Information System.<br>I'm curre
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Dreamvalian&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Dreamvalian&icon=4&color=6)](https://visitcount.itsvg.in)
 
