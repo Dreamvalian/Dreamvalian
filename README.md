@@ -1,78 +1,45 @@
 <h1 align="center">Hi 👋, I'm Hanif Nugraha</h1>
-<h3 align="center">Information Systems Student | Future Full-Stack Developer</h3>
+<h3 align="center">A passionate UI/UX Designer from Indonesia</h3>
 
----
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamvalian&label=Profile%20views&color=0e75b6&style=flat" alt="dreamvalian" /> </p>
 
-## 💫 About Me
-🎓 I'm currently a college student majoring in **Information Systems**.  
-💻 Passionate about web development and UI/UX design.  
-🌱 Currently learning and improving my skills in **HTML, CSS, and JavaScript**.  
-🚀 Interested in building modern, responsive, and user-friendly web applications.
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreamvalian" alt="dreamvalian" /></a> </p>
 
----
+<p align="left"> <a href="https://twitter.com/ko4lax" target="blank"><img src="https://img.shields.io/twitter/follow/ko4lax?logo=twitter&style=for-the-badge" alt="ko4lax" /></a> </p>
 
-## 🌐 Connect With Me
+- 🌱 I’m currently learning **Next.js (App Router), Advanced React Patterns, Web Accessibility (WCAG 2.1 & WCAG-EM), UI/UX Design Systems, and Information Systems Research Methodology**
+
+- 👯 I’m looking to collaborate on **Web Accessibility & Inclusive Design Projects**
+
+- 🤝 I’m looking for help with **WCAG-EM Evaluation & Accessibility Automation**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Dreamvalian](https://github.com/Dreamvalian)
+
+- 📝 I regularly write articles on [(Currently preparing articles about Web Accessibility & Information Systems Research)]((Currently preparing articles about Web Accessibility & Information Systems Research))
+
+- 💬 Ask me about **React, Next.js, Tailwind CSS, Web Accessibility, and UI/UX Design**
+
+- 📫 How to reach me **hanifnnugraha69@gmail.com**
+
+- 📄 Know about my experiences [https://linkedin.com/in/hanifnugraha](https://linkedin.com/in/hanifnugraha)
+
+- ⚡ Fun fact **I enjoy turning complex system problems into clean and minimal UI solutions😄**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://behance.net/dreamvalian" target="_blank">
-  <img src="https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white" />
-</a>
-<a href="https://instagram.com/hanifnnugraha_" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/hanifnugraha" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" />
-</a>
+<a href="https://twitter.com/ko4lax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ko4lax" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/hanifnugraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanifnugraha" height="30" width="40" /></a>
+<a href="https://kaggle.com/dreamvalian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dreamvalian" height="30" width="40" /></a>
+<a href="https://dribbble.com/dreamvalian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dreamvalian" height="30" width="40" /></a>
+<a href="https://www.behance.net/dreamvalian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dreamvalian" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/dreamvalian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dreamvalian" height="30" width="40" /></a>
 </p>
 
----
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-## 💻 Tech Stack
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamvalian&show_icons=true&locale=en&layout=compact" alt="dreamvalian" /></p>
 
-### 🌐 Frontend
-![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![React](https://img.shields.io/badge/react-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamvalian&show_icons=true&locale=en" alt="dreamvalian" /></p>
 
-### 🖥 Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-
-### 🎨 Design Tools
-![Figma](https://img.shields.io/badge/figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dreamvalian&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dreamvalian&theme=nightowl&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dreamvalian&theme=nightowl&hide_border=true&layout=compact" height="150"/>
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Dreamvalian&theme=discord&no-frame=true&margin-w=8" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Dreamvalian&icon=4&color=6" />
-</p>
-
----
-
-⭐ *“Keep building, keep learning, and never stop improving.”*
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamvalian&" alt="dreamvalian" /></p>
