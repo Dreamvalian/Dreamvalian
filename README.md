@@ -21,8 +21,7 @@
 
 **"The Impact of Emotional Design in Mobile Apps on User Experience and Brand Loyalty in Indonesia (Case Study: TikTok Shop)"**  
 
-**Research model:** UX-Tips (13 dimensions) + SAM scale (Pleasure/Arousal/Dominance) → Brand Loyalty, grounded in Norman's 3-Level Emotional Design (visceral, behavioral, reflective). Mixed-methods sequential exploratory design — quantitative PLS-SEM (n ≥ 150) followed by qualitative thematic analysis (15–20 interviews). Six hypotheses test direct/mediated effects, hedonic vs pragmatic impact, and emotion profile differences across touchpoints (first impression, active use, post-use). 30+ citations across 6 thematic clusters; instrument finalized; sempro defense pending. Full thesis draft at `MERGED_THESIS.md` in my local thesis workspace.
-
+**Research model:** UX-Tips (13 dimensions) + SAM scale (Pleasure/Arousal/Dominance) → Brand Loyalty, grounded in Norman's 3-Level Emotional Design (visceral, behavioral, reflective). Mixed-methods sequential exploratory design — quantitative PLS-SEM (n ≥ 150) followed by qualitative thematic analysis (15–20 interviews). Six hypotheses test direct/mediated effects, hedonic vs pragmatic impact, and emotion profile differences across touchpoints (first impression, active use, post-use). 30+ citations across 6 thematic clusters; instrument finalized.
 ---
 
 ## 🚀 Recent Projects
@@ -75,7 +74,6 @@
 - Generative art pipelines (p5.js, creative code architectures)
 - Next.js dashboard/admin panel design patterns
 - PHP-based tutoring or small business management systems
-- Cyberpunk/neon UI theming and visual effects in web apps
 - UX research methods (UX-Tips, SAM scale, PLS-SEM, mixed-methods design)
 
 ---
