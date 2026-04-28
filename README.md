@@ -1,45 +1,85 @@
 <h1 align="center">Hi 👋, I'm Hanif Nugraha</h1>
-<h3 align="center">A passionate UI/UX Designer from Indonesia</h3>
+<h3 align="center">Creative technologist / AI agent builder / Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamvalian&label=Profile%20views&color=0e75b6&style=flat" alt="dreamvalian" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dreamvalian" alt="dreamvalian" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ko4lax" target="blank"><img src="https://img.shields.io/twitter/follow/ko4lax?logo=twitter&style=for-the-badge" alt="ko4lax" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js (App Router), Advanced React Patterns, Web Accessibility (WCAG 2.1 & WCAG-EM), UI/UX Design Systems, and Information Systems Research Methodology**
+---
 
-- 👯 I’m looking to collaborate on **Web Accessibility & Inclusive Design Projects**
+## 🧠 What I Actually Do (Lately)
 
-- 🤝 I’m looking for help with **WCAG-EM Evaluation & Accessibility Automation**
+**Hermes Agent ecosystem** — building plugins, dashboards, and visual themes for autonomous agent systems.  
+**Generative/creative coding** — p5.js, AI-driven design systems, procedural visuals.  
+**Full-stack web apps** — Next.js, TypeScript, Tailwind, shadcn/ui, deployed on Vercel/VPS.  
+**Real-world product software** — tutoring platforms, utility tools, admin dashboards.  
+**UI systems & theming** — clean design systems, cyberpunk aesthetics, accessible interfaces.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Dreamvalian](https://github.com/Dreamvalian)
+---
 
-- 📝 I regularly write articles on [(Currently preparing articles about Web Accessibility & Information Systems Research)]((Currently preparing articles about Web Accessibility & Information Systems Research))
+## 🚀 Recent Projects
 
-- 💬 Ask me about **React, Next.js, Tailwind CSS, Web Accessibility, and UI/UX Design**
+| Project | What it is | Tech |
+|---|---|---|
+| **[atelier](https://github.com/Dreamvalian/atelier)** | AI Creative Director Agent — generative brand identity engine (p5.js + Kimi K2.5 + TTS). Hermes Agent Creative Hackathon submission | Python, p5.js, Kimi API, TTS |
+| **[hermes-agent-monitor](https://github.com/Dreamvalian/hermes-agent-monitor)** | Real-time Hermes Agent dashboard — sessions, skills, cron jobs, system health, analytics | Next.js, TypeScript, Tailwind, shadcn/ui |
+| **[hermes-cyberdeck-theme](https://github.com/Dreamvalian/hermes-cyberdeck-theme)** | Neon cyberpunk dashboard theme for Hermes Agent (hot pink + electric cyan + CRT scanlines) | YAML skin config, CSS |
+| **[onyx-web](https://github.com/Dreamvalian/onyx-web)** | Landing page + admin dashboard for Onyx AI assistant (Discord-based agent) | Next.js, TypeScript, Tailwind, Framer Motion |
+| **[imsak-schedule](https://github.com/Dreamvalian/imsak-schedule)** | Ramadan companion app — auto-location, prayer times, Imsak countdown, monthly calendar | Next.js, TypeScript, Tailwind, SWR, Zod |
+| **[tutoring](https://github.com/Dreamvalian/tutoring)** | Tutoring management system — student, class, attendance, finance modules | PHP, CodeIgniter 4, MySQL, Bootstrap |
+| **[ko4lax.me](https://github.com/Dreamvalian/ko4lax.me)** | Minimal static profile site (GitHub Pages) | Next.js static export, TypeScript |
+| **[woodcraft](https://github.com/Dreamvalian/woodcraft)** | Woodcraft CMS project | Laravel, PHP, Vite, Tailwind |
 
-- 📫 How to reach me **hanifnnugraha69@gmail.com**
+---
 
-- 📄 Know about my experiences [https://linkedin.com/in/hanifnugraha](https://linkedin.com/in/hanifnugraha)
+## ✍️ What I'm Focused On Now
 
-- ⚡ Fun fact **I enjoy turning complex system problems into clean and minimal UI solutions😄**
+- Expanding Hermes Agent plugin ecosystem (monitoring, themes, integrations)
+- Creative coding + AI-assisted design systems
+- Clean, accessible, production-first UI engineering
+- Automating developer experience (admin panels, dashboards, tooling)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ko4lax" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ko4lax" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hanifnugraha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hanifnugraha" height="30" width="40" /></a>
-<a href="https://kaggle.com/dreamvalian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dreamvalian" height="30" width="40" /></a>
-<a href="https://dribbble.com/dreamvalian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="dreamvalian" height="30" width="40" /></a>
-<a href="https://www.behance.net/dreamvalian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="dreamvalian" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/dreamvalian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="dreamvalian" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://ifttt.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ifttt/ifttt-ar21.svg" alt="ifttt" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+## 🛠 Tech I Use Regularly
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dreamvalian&show_icons=true&locale=en&layout=compact" alt="dreamvalian" /></p>
+**Frontend:** Next.js, React, TypeScript, Tailwind CSS, shadcn/ui, Framer Motion  
+**Backend/API:** Node.js, PHP (Laravel, CodeIgniter), PostgreSQL, MySQL  
+**Creative/Generative:** p5.js, Canvas API, TTS, AI APIs (Kimi, Claude)  
+**DevOps/Infra:** PM2, Nginx, Let's Encrypt, Docker, Vercel, GitHub Actions  
+**Agent/Platform:** Hermes Agent, MCP, Discord integrations  
+**Tools:** Git, VS Code, Figma, Postman, Redis
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dreamvalian&show_icons=true&locale=en" alt="dreamvalian" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dreamvalian&" alt="dreamvalian" /></p>
+## 📕 Currently Reading / Learning
+
+- Agent Systems Architecture (MCP plugin design patterns, session memory)
+- Creative coding at scale (performance, shaders, WebGL)
+- Accessibility-first development (WCAG 2.1, WAI-ARIA, audit workflows)
+- Monorepo/plugin-system patterns (Hermes plugin ecosystem best practices)
+
+---
+
+## 💬 Ask me about
+
+- Building AI agent plugins and integrations for Hermes
+- Generative art pipelines (p5.js, creative code architectures)
+- Next.js dashboard/admin panel design patterns
+- PHP-based tutoring or small business management systems
+- Cyberpunk/neon UI theming and visual effects in web apps
+
+---
+
+## 📫 How to reach me
+
+**Email:** hanifnnugraha69@gmail.com  
+**Twitter:** [@ko4lax](https://twitter.com/ko4lax)  
+**LinkedIn:** [hanifnugraha](https://linkedin.com/in/hanifnugraha)  
+**Koala dev:** [ko4lax.dev](https://ko4lax.dev)
+
+---
+
+## ⚡ Fun fact
+
+I enjoy turning complex agent system problems into clean, minimal user interfaces. Also: I'm currently building [atelier](https://atelier.ko4lax.dev), an AI Creative Director that designs brands from a one-line brief.
