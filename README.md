@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hanif Nugraha</h1>
+<h1 align="center">Hi 👋, I'm Koala</h1>
 <h3 align="center">Creative technologist / AI agent builder / Full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dreamvalian&label=Profile%20views&color=0e75b6&style=flat" alt="dreamvalian" /> </p>
@@ -81,9 +81,7 @@
 
 ## 📫 How to reach me
 
-**Email:** hanifnnugraha69@gmail.com  
-**Twitter:** [@ko4lax](https://twitter.com/ko4lax)  
-**LinkedIn:** [hanifnugraha](https://linkedin.com/in/hanifnugraha)  
+**Email:** hanifnnugraha69@gmail.com   
 **Koala dev:** [ko4lax.dev](https://ko4lax.dev)
 
 ---
